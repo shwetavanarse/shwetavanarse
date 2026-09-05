@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shweta Vanarse</h1>
+<h1 align="center">Hi , I'm Shweta Vanarse</h1>
 <h3 align="center">Aspiring Data Scientist | BCA Graduate | Turning Data into Decisions</h3>
 
 <p align="center">
@@ -11,8 +11,8 @@
 - 🔭 I'm currently building end-to-end data projects spanning **Business Intelligence** and **Machine Learning**
 - 🌱 Deepening my skills in **Python, Machine Learning, and Statistics** through my upGrad certification
 - 💡 I enjoy turning raw, messy data into dashboards and models that drive real decisions
-- 📫 Reach me at: **your-email@example.com**
-- 🔗 LinkedIn: **[your LinkedIn URL]**
+- 📫 Reach me at: **shwetavanarse28@gmail.com.com**
+- 🔗 LinkedIn: **www.linkedin.com/in/shweta-vanarse-aa82313b1**
 
 ---
 
