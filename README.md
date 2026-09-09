@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | BCA Graduate | Turning Data into Decisions</h3>
 
 <p align="center">
-  🎓 BCA Graduate &nbsp;|&nbsp; 📊 Skilled in SQL, Excel, Power BI & Tableau &nbsp;|&nbsp; 🌱 Currently pursuing Advanced Data Science & AI/ML Certification (upGrad)
+  🎓 BCA Graduate &nbsp;|&nbsp; 📊 Skilled in SQL, Excel, Power BI & Tableau &nbsp;|&nbsp; Currently pursuing Advanced Data Science & AI/ML Certification 
 </p>
 
 ---
