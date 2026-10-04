@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Shweta Vanarse</h1>
-<h3 align="center">Aspiring Data Scientist | BCA Graduate | Turning Data into Decisions</h3>
+<h3 align="center">BCA Graduate | Data Analytics | SQL | Python | Power BI | Tableau | Turning Data into Insights</h3>
 
 <p align="center">
   🎓 BCA Graduate &nbsp;|&nbsp; 📊 Skilled in SQL, Excel, Power BI & Tableau &nbsp;|&nbsp; Currently pursuing Advanced Data Science & AI/ML Certification 
